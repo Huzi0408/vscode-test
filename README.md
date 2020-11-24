@@ -1,3 +1,3 @@
 # visual studio code の練習
 
-練習です
+ブラウザから変更
